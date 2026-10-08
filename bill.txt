@@ -1,0 +1,9 @@
+soap 45.0 x 44 = 1980.0
+ball 90.0 x 55 = 4950.0
+pant 55.0 x 44 = 2420.0
+note 88.0 x 44 = 3872.0
+jug 55.0 x 44 = 2420.0
+Total bill: 15642.0
+Discount: 1564.2
+Final bill: 14077.8
+Most expensive product: ball

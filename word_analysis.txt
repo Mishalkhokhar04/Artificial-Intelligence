@@ -1,0 +1,7 @@
+Total words: 1
+Total characters: 6
+Longest word: mishal
+Shortest word: mishal
+Vowels: 2
+Unique words: {'mishal'}
+Alphabetical order: ['mishal']

@@ -1,0 +1,3 @@
+Fries x 12 = Rs. 3000
+Pizza x 2 = Rs. 1600
+Final bill: Rs. 4600

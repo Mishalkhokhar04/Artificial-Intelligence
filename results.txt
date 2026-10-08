@@ -1,0 +1,6 @@
+mishal 33 Total: 121 Percentage: 40.33333333333333 Grade: F
+iqra 33 Total: 75 Percentage: 25.0 Grade: F
+maham 12 Total: 68 Percentage: 22.666666666666664 Grade: F
+malihqa 88 Total: 43 Percentage: 14.333333333333334 Grade: F
+amna 33 Total: 90 Percentage: 30.0 Grade: F
+Highest percentage student: mishal 40.33333333333333
